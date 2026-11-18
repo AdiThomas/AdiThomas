@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-label="adithomas.github.io: My portfolio is a circuit. Drive the lap with the arrow keys and each sector opens a section. Or let the autopilot drive.">
+  <defs><clipPath id="r"><rect width="600" height="210" rx="12"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="600" height="210" fill="#13171c"/>
+    <rect width="600" height="210" rx="12" fill="none" stroke="#262d36" stroke-width="2"/>
+    <rect width="6" height="210" fill="#ff5a36"/>
+    <text x="24" y="50" font-family="'Bahnschrift','Arial Narrow','Roboto Condensed','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" font-style="italic" fill="#ff5a36">P4</text>
+    <text x="74" y="49" font-family="'Bahnschrift','Arial Narrow','Roboto Condensed','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="700" fill="#eef1f4">adithomas.github.io</text>
+    <rect x="518" y="26" width="58" height="26" rx="13" fill="none" stroke="#3ddc84"/>
+    <circle cx="532" cy="39" r="4" fill="#3ddc84"/>
+    <text x="542" y="43.5" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" font-weight="700" fill="#3ddc84">LIVE</text>
+    <text x="24" y="88" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#eef1f4">My portfolio is a circuit. Drive the lap with the arrow keys</text>
+    <text x="24" y="111" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#eef1f4">and each sector opens a section. Or let the autopilot drive.</text>
+    <text x="24" y="142" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b95a1">› vanilla JS · canvas · no framework</text>
+    <rect x="24" y="162" width="96" height="26" rx="4" fill="#1a1f26" stroke="#262d36"/><text x="72" y="179.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#eef1f4">JavaScript</text><rect x="128" y="162" width="66" height="26" rx="4" fill="#1a1f26" stroke="#262d36"/><text x="161" y="179.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#eef1f4">Canvas</text><rect x="202" y="162" width="43" height="26" rx="4" fill="#1a1f26" stroke="#262d36"/><text x="223.5" y="179.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#eef1f4">CSS</text>
+  </g>
+</svg>

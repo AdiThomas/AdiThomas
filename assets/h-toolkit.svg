@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="TOOLKIT">
+  <rect x="0" y="12" width="6" height="32" fill="#ff5a36"/>
+  <text x="22" y="38" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="15" font-weight="700" letter-spacing="2" fill="#ff5a36">03</text>
+  <text x="60" y="40" font-family="'Bahnschrift','Arial Narrow','Roboto Condensed','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="1" fill="#8b95a1">TOOLKIT</text>
+  <line x1="199" x2="1200" y1="29" y2="29" stroke="#8b95a1" stroke-opacity=".35" stroke-dasharray="2 6" stroke-width="2"/>
+</svg>

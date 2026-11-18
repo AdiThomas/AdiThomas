@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-label="ClogGuard: Capstone: catch developing nozzle clogs on desktop FDM 3D printers before a print fails, and correct them.">
+  <defs><clipPath id="r"><rect width="600" height="210" rx="12"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="600" height="210" fill="#13171c"/>
+    <rect width="600" height="210" rx="12" fill="none" stroke="#262d36" stroke-width="2"/>
+    <rect width="6" height="210" fill="#ff5a36"/>
+    <text x="24" y="50" font-family="'Bahnschrift','Arial Narrow','Roboto Condensed','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" font-style="italic" fill="#ff5a36">P3</text>
+    <text x="74" y="49" font-family="'Bahnschrift','Arial Narrow','Roboto Condensed','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="700" fill="#eef1f4">ClogGuard</text>
+    <rect x="486" y="26" width="90" height="26" rx="13" fill="none" stroke="#ffd23f"/>
+    <circle cx="500" cy="39" r="4" fill="#ffd23f"/>
+    <text x="510" y="43.5" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" font-weight="700" fill="#ffd23f">PROPOSAL</text>
+    <text x="24" y="88" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#eef1f4">Capstone: catch developing nozzle clogs on desktop FDM</text>
+    <text x="24" y="111" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#eef1f4">3D printers before a print fails, and correct them.</text>
+    <text x="24" y="142" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b95a1">› Klipper · sensors · U of Guelph 3D Printing Lab</text>
+    <rect x="24" y="162" width="73" height="26" rx="4" fill="#1a1f26" stroke="#262d36"/><text x="60.5" y="179.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#eef1f4">Klipper</text><rect x="105" y="162" width="81" height="26" rx="4" fill="#1a1f26" stroke="#262d36"/><text x="145.5" y="179.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#eef1f4">Embedded</text><rect x="194" y="162" width="66" height="26" rx="4" fill="#1a1f26" stroke="#262d36"/><text x="227" y="179.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#eef1f4">Python</text><rect x="268" y="162" width="81" height="26" rx="4" fill="#1a1f26" stroke="#262d36"/><text x="308.5" y="179.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#eef1f4">Hardware</text>
+  </g>
+</svg>
