@@ -1,43 +1,55 @@
 <a href="https://adithomas.github.io">
-  <img src="assets/banner.svg" width="100%" alt="Aditya Thomas: software engineer in automotive manufacturing">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <img src="assets/hero-dark.svg" width="100%" alt="Aditya Thomas. Software Engineer at Magna International. B.Eng. Computer Engineering, University of Guelph, Class of 2027. I build software for the factory floor: plant dashboards, data pipelines, and the infrastructure that keeps them running.">
+  </picture>
 </a>
 
 <p align="center">
-  <a href="https://adithomas.github.io"><b>🏁 Drive my portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://adithomas.github.io/hip-gpt2/"><b>📈 hip-gpt2 write-up</b></a> &nbsp;·&nbsp;
-  <b>🟢 Open to new-grad roles</b>
+  <a href="https://adithomas.github.io"><img src="https://img.shields.io/badge/Portfolio-adithomas.github.io-e5484d?style=flat-square&labelColor=0d1117" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/adi-thomas"><img src="https://img.shields.io/badge/LinkedIn-adi--thomas-0A66C2?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:aditom03@gmail.com"><img src="https://img.shields.io/badge/Email-aditom03%40gmail.com-8b949e?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to-new--grad%20roles%20%C2%B7%202027-3fb950?style=flat-square&labelColor=0d1117" alt="Open to new-grad roles, 2027">
 </p>
 
-<img src="assets/h-grid.svg" width="100%" alt="01 The grid">
+### Now
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/AdiThomas/hip-gpt2"><img src="assets/card-hip-gpt2.svg" width="100%" alt="hip-gpt2: hand-written HIP GEMM kernels and a C++/HIP GPT-2 inference engine"></a></td>
-    <td width="50%"><a href="https://github.com/AdiThomas/pivault"><img src="assets/card-pivault.svg" width="100%" alt="PiVault: self-hosted photo and file cloud on a Raspberry Pi 5 with an iPhone app"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/AdiThomas/fdm-clog-detection"><img src="assets/card-capstone.svg" width="100%" alt="ClogGuard capstone: early detection of nozzle clogs on FDM 3D printers"></a></td>
-    <td width="50%"><a href="https://github.com/AdiThomas/AdiThomas.github.io"><img src="assets/card-site.svg" width="100%" alt="adithomas.github.io: a portfolio you drive around a circuit"></a></td>
-  </tr>
-</table>
+- **At work:** Software Engineer at Magna International, building plant-floor dashboards, full-stack tools and Databricks pipelines.
+- **Building:** [PiVault](https://github.com/AdiThomas/pivault), my own photo cloud on a Raspberry Pi, and [ClogGuard](https://github.com/AdiThomas/fdm-clog-detection), our capstone.
+- **Learning:** GPU performance engineering and LLM inference ([hip-gpt2](https://github.com/AdiThomas/hip-gpt2), [write-up](https://adithomas.github.io/hip-gpt2/)).
+- **Looking for:** new-grad roles in software, DevOps or AI starting summer 2027. GTA or remote first, open to relocating.
 
-<img src="assets/h-stints.svg" width="100%" alt="02 Stint history">
+### Selected work
 
-| Pos | Team | Role | Stint |
-|:---:|------|------|-------|
-| **1** | **Magna International** | Software Engineer: plant dashboards, full-stack tools, Databricks pipelines | Sep 2026 – now |
-| 2 | Magna International | IT DevOps / Developer: CI/CD, automation, MES integration | Apr – Sep 2026 |
-| 3 | City of Mississauga | IT Analyst Intern | Apr – Dec 2025 |
-| 4 | ATS Corporation | IT Consultant Intern | May – Aug 2024 |
+<p>
+  <a href="https://github.com/AdiThomas/hip-gpt2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-hip-gpt2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-hip-gpt2-light.svg"><img src="assets/card-hip-gpt2-dark.svg" width="49%" alt="hip-gpt2: six hand-written HIP matrix-multiply kernels feeding a C++/HIP GPT-2 inference engine"></picture></a>
+  <a href="https://github.com/AdiThomas/pivault"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-pivault-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-pivault-light.svg"><img src="assets/card-pivault-dark.svg" width="49%" alt="PiVault: self-hosted photo and file cloud on a Raspberry Pi 5 with an iPhone app"></picture></a>
+</p>
+<p>
+  <a href="https://github.com/haashirk20/ds-automation-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ds-automation-pipeline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-ds-automation-pipeline-light.svg"><img src="assets/card-ds-automation-pipeline-dark.svg" width="49%" alt="ds-automation-pipeline: turns one Shopify product into two video ads a day and publishes them to Shorts, Reels and TikTok"></picture></a>
+  <a href="https://github.com/AdiThomas/fdm-clog-detection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-clogguard-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-clogguard-light.svg"><img src="assets/card-clogguard-dark.svg" width="49%" alt="ClogGuard capstone: early detection and correction of nozzle clogs on a Klipper 3D printer"></picture></a>
+</p>
+<p>
+  <a href="https://github.com/AdiThomas/Enterprise-AI-Operations-Copilot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-copilot-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-copilot-light.svg"><img src="assets/card-copilot-dark.svg" width="49%" alt="Enterprise AI Operations Copilot: multi-agent IT support and knowledge assistant"></picture></a>
+  <a href="https://github.com/AdiThomas/AdiThomas.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-site-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-site-light.svg"><img src="assets/card-site-dark.svg" width="49%" alt="adithomas.github.io: interactive portfolio"></picture></a>
+</p>
 
-<img src="assets/h-toolkit.svg" width="100%" alt="03 Toolkit">
+### Experience
 
-<img src="assets/toolkit.svg" width="100%" alt="Java, TypeScript, JavaScript, Python, C++, HIP/CUDA, SQL, Bash, PowerShell, React, React Native, FastAPI, PostgreSQL, SQLite, Databricks, Power BI, Grafana, Linux, Docker, GitHub Actions, Ansible, Tailscale, Raspberry Pi, MES integration">
+| Role | Company | When |
+|------|---------|------|
+| **Software Engineer**: plant dashboards, full-stack tools, Databricks pipelines | **Magna International** | Sep 2026 – present |
+| IT DevOps / Developer: CI/CD, automation, MES integration | Magna International | Apr – Sep 2026 |
+| IT Analyst Intern | City of Mississauga | Apr – Dec 2025 |
+| IT Consultant Intern | ATS Corporation | May – Aug 2024 |
 
-<img src="assets/h-paddock.svg" width="100%" alt="04 Also in the paddock">
+### Toolkit
 
-- **[Enterprise-AI-Operations-Copilot](https://github.com/AdiThomas/Enterprise-AI-Operations-Copilot)** · *WIP*. A multi-agent IT support and knowledge assistant: FastAPI, Postgres + pgvector, Redis, n8n.
-- **[clogguard](https://github.com/AdiThomas/clogguard)** · *planning*. The Klipper firmware side of the capstone.
-- **[F24 Algorithms & Data Structures](https://github.com/AdiThomas/F24_S1_Aditya_Thomas_Quiz2)**: coursework in Java.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg">
+  <img src="assets/toolkit-dark.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, Java, C++, C, HIP/CUDA, SQL, Bash, PowerShell. Frameworks: FastAPI, React, React Native, Node.js, Expo, Remotion. Data: PostgreSQL, SQLite, Databricks, Power BI, Grafana, Prometheus. Infra: Docker, GitHub Actions, Ansible, Linux, Tailscale, Raspberry Pi, MES integration.">
+</picture>
 
-<sub>Off the clock: Formula 1 (more for the strategy calls and the data than the podium), cars in general, and a self-hosted cloud on a Raspberry Pi at home.</sub>
+<sub>Off the clock: JDM cars, Formula 1 strategy, and running my own cloud on a Raspberry Pi at home. 峠</sub>

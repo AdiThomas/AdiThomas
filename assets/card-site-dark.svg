@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-label="adithomas.github.io: My interactive portfolio: drive a lap around a circuit and each sector opens a section of the site.">
+  <defs><clipPath id="r"><rect width="600" height="240" rx="10"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="600" height="240" fill="#11161d"/>
+    <text x="28" y="44" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="1" fill="#e5484d">06</text>
+    <text x="56" y="45" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="600" fill="#e6edf3">adithomas.github.io</text>
+    <rect x="508.4" y="25" width="63.6" height="24" rx="12" fill="none" stroke="#3fb950" stroke-opacity=".7"/>
+    <circle cx="522.4" cy="37" r="3.5" fill="#3fb950"/>
+    <text x="531.4" y="41" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="11" font-weight="700" letter-spacing=".5" fill="#3fb950">LIVE</text>
+    <text x="28" y="86" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#c9d1d9">My interactive portfolio: drive a lap around a circuit and each</text>
+    <text x="28" y="109" font-family="'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" font-size="15.5" fill="#c9d1d9">sector opens a section of the site.</text>
+    <text x="28" y="168" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#8b949e">vanilla JS · canvas · no framework</text>
+    <rect x="28" y="186" width="92" height="26" rx="6" fill="#161b22" stroke="#262c36"/><text x="74" y="203.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#c9d1d9">JavaScript</text><rect x="128" y="186" width="63.199999999999996" height="26" rx="6" fill="#161b22" stroke="#262c36"/><text x="159.6" y="203.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#c9d1d9">Canvas</text><rect x="199.2" y="186" width="41.599999999999994" height="26" rx="6" fill="#161b22" stroke="#262c36"/><text x="220" y="203.5" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12" fill="#c9d1d9">CSS</text>
+    <rect x=".5" y=".5" width="599" height="239" rx="10" fill="none" stroke="#262c36"/>
+  </g>
+</svg>
